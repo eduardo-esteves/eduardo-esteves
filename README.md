@@ -5,16 +5,16 @@
 ### Contato:
 
 <p >
-  <a href="https://www.linkedin.com/in/eduardo-esteves-silva/">
+  <a href="https://www.linkedin.com/in/eduardo-esteves-silva/" target="_blank">
     <img src="https://img.shields.io/badge/-Linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" >
   </a>
-    <a href="https://edusites.com.br/portfolio/">
+    <a href="https://edusites.com.br/portfolio/" target="_blank">
     <img src="https://img.shields.io/badge/Portfólio-4285F4?style=for-the-badge&amp;logo=read-the-docs&amp;logoColor=white">
   </a>
-  <a href="https://api.whatsapp.com/send?phone=5511961459430&text=Ol%C3%A1%20Eduardo%20Esteves!">
+  <a href="https://api.whatsapp.com/send?phone=5511961459430&text=Ol%C3%A1%20Eduardo%20Esteves!" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" >
   </a>
-  <a href="mailto:eduardostevessilva@gmail.com">
+  <a href="mailto:eduardostevessilva@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" >
   </a>
 </p>
