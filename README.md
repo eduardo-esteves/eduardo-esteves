@@ -42,6 +42,12 @@
 <h3 align="left">Tecnologias e ferramentas: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 <p align="left"> 
 
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/Python" target="_blank"> 
+  <img src="https://cdn.jsdelivr.net/npm/@programming-languages-logos/python@0.0.0/python_48x48.png" alt="Python" width="40" height="40"/>
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/Node.js" target="_blank"> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
+</a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/PHP" target="_blank"> 
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Webysther_20160423_-_Elephpant.svg/1200px-Webysther_20160423_-_Elephpant.svg.png" alt="PHP" width="40" height="40"/>
 </a>
@@ -59,9 +65,6 @@
 </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/Node.js" target="_blank"> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
-</a>
   <a href="https://vuejs.org" target="_blank"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="vuejs" width="40" height="40"/>
 </a>
