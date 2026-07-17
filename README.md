@@ -1,92 +1,109 @@
-<h1 align="center">👋 Olá, seja bem vindo(a), me chamo Eduardo Esteves</h1>
+<div align="center">
+  
+# 👋 Olá! Eu sou Eduardo Esteves
 
-<h3 align="center">Desenvolvedor Full stack</h3>
+### 💻 Desenvolvedor Full Stack | 9 anos de experiência
 
-### Contato:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-esteves-silva/)
+[![Website](https://img.shields.io/badge/🌐_Visite_meu_site-4285F4?style=for-the-badge)](https://edusites.com.br)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5511961459430&text=Olá%20Eduardo%20Esteves!)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eduardostevessilva@gmail.com)
 
-<p >
-  <a href="https://www.linkedin.com/in/eduardo-esteves-silva/" target="_blank">
-    <img src="https://img.shields.io/badge/-Linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" >
-  </a>
-    <a href="https://edusites.com.br/portfolio/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfólio-4285F4?style=for-the-badge&amp;logo=read-the-docs&amp;logoColor=white">
-  </a>
-  <a href="https://api.whatsapp.com/send?phone=5511961459430&text=Ol%C3%A1%20Eduardo%20Esteves!" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" >
-  </a>
-  <a href="mailto:eduardostevessilva@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" >
-  </a>
-</p>
+</div>
 
-### Sobre mim
+---
 
-💬 Sou um desenvolvedor Full Stack Sênior com 9 anos de experiência em desenvolvimento de software, atuando como referência técnica em squads multidisciplinares. Especializado em PHP, Python e JavaScript, trabalho com desenvolvimento, manutenção e modernização de aplicações complexas, incluindo sistemas monolíticos, APIs REST e arquiteturas de microsserviços em empresas de grande porte.
+## 🚀 Sobre mim
 
-🚀 Minha expertise inclui **Laravel**, **Django**, **Django REST Framework**, **Vue.js** e **Quasar Framework**. Desenvolvi meu site pessoal utilizando Vue.js no frontend e API REST no backend, aplicando as melhores práticas de desenvolvimento moderno. Possuo sólida experiência com Docker, CI/CD, AWS (EC2, S3, CloudFront, RDS) e metodologias ágeis (Scrum/Kanban).
+Desenvolvedor **Full Stack** especializado em **PHP**, **Python** e **JavaScript**, com sólida experiência em:
 
-🎯 Atualmente estou aprimorando meu inglês (nível intermediário B1) e expandindo conhecimentos em cloud computing e arquitetura de microsserviços, aproveitando minha experiência prévia em infraestrutura e redes para construir soluções escaláveis e eficientes.
+- 🎯 **Referência técnica** em squads multidisciplinares de empresas de grande porte
+- 🏗️ Arquitetura de **sistemas monolíticos**, **APIs REST** e **microsserviços**
+- ⚡ **Tomada de decisões técnicas**, definição de boas práticas e suporte a desenvolvedores
+- ☁️ **Cloud Computing** com AWS (EC2, S3, CloudFront, RDS, API Gateway)
+- 🐳 **Docker**, **CI/CD** e automação de ambientes
+- 📊 Metodologias ágeis: **Scrum** e **Kanban**
 
-### GitHub Estatísticas
+### 🌟 Destaque
 
-<center>
-  <a href="https://github.com/eduardo-esteves">
-  <table>
-    <tr>
-        <td>
-          <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardo-esteves&layout=compact&theme=tokyonight" /></td>
-        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=eduardo-esteves&show_icons=true&theme=tokyonight" /></td>
-    </tr>   
-  </table>
-  </a>
-</center>
+> 💡 Desenvolvi meu **[site pessoal](https://edusites.com.br)** utilizando **Vue.js** no frontend e **API REST** no backend, aplicando arquitetura moderna e boas práticas de desenvolvimento.
 
-<h3 align="left">Tecnologias e ferramentas: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
-<p align="left"> 
+---
 
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/Python" target="_blank"> 
-  <img src="https://cdn.jsdelivr.net/npm/@programming-languages-logos/python@0.0.0/python_48x48.png" alt="Python" width="40" height="40"/>
-</a>
-<a href="https://www.djangoproject.com/" target="_blank"> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" width="40" height="40"/>
-</a>
-<a href="https://www.django-rest-framework.org/" target="_blank"> 
-  <img src="https://www.django-rest-framework.org/img/logo.png" alt="Django REST Framework" width="40" height="40"/>
-</a>
-<a href="https://fastapi.tiangolo.com/" target="_blank"> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="40" height="40"/>
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/Node.js" target="_blank"> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/PHP" target="_blank"> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Webysther_20160423_-_Elephpant.svg/1200px-Webysther_20160423_-_Elephpant.svg.png" alt="PHP" width="40" height="40"/>
-</a>
-<a href="https://laravel.com/" target="_blank"> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/220px-Laravel.svg.png" alt="Laravel" width="40" height="40" />
-</a>
-<a href="https://edusites.com.br/blog/wordpress/o-que-e-wordpress-e-para-que-serve/" target="_blank"> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" alt="wordpress" width="40" height="40" />
-</a>
-<a href="https://edusites.com.br/blog/wordpress/o-que-e-wordpress-e-para-que-serve/" target="_blank"> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" />
-</a>
-<a href="https://www.linux.com/what-is-linux/" target="_blank"> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="/mysql" width="40" height="40" />
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
-  <a href="https://vuejs.org" target="_blank"> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="vuejs" width="40" height="40"/>
-</a>
-<a href="https://quasar.dev/" target="_blank"> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/quasar/quasar-original.svg" alt="Quasar Framework" width="40" height="40"/>
-</a>
-<a href="https://nuxt.com/" target="_blank"> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" alt="Nuxt.js" width="40" height="40"/>
-</a>		
-<a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a> 
-<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
-<a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 	
-</p>
+## 🛠️ Stack Tecnológica
+
+### Backend
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Django REST](https://img.shields.io/badge/Django_REST-092E20?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+### Frontend
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![Quasar](https://img.shields.io/badge/Quasar-1976D2?style=for-the-badge&logo=quasar&logoColor=white)
+![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### Banco de Dados & DevOps
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+### Outras Tecnologias
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![API REST](https://img.shields.io/badge/API_REST-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![WebServices](https://img.shields.io/badge/WebServices-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+
+---
+
+## 📚 Formação & Idiomas
+
+🎓 **Ciência da Computação** - UNIP (2011)  
+🗣️ **Inglês Intermediário B1** - Cultura Inglesa (em andamento)  
+📜 **Certificações**: React (Udacity), TypeScript (Udemy), Modern Software Engineer (Ituring)
+
+---
+
+<div align="center">
+
+## 🌐 Conheça meu trabalho
+
+### [![Website](https://img.shields.io/badge/🚀_Acesse_edusites.com.br-4285F4?style=for-the-badge)](https://edusites.com.br)
+
+*Site desenvolvido com Vue.js e API REST - Portfólio completo de projetos e artigos técnicos*
+
+---
+
+### 📊 Atividade no GitHub
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=eduardo-esteves&theme=tokyonight&hide_border=true)
+
+<details>
+<summary>📈 Estatísticas Detalhadas</summary>
+<br>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eduardo-esteves&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardo-esteves&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=eduardo-esteves&theme=tokyo-night&hide_border=true)
+
+</details>
+
+---
+
+⭐ *"Código limpo não é escrito seguindo regras. É escrito com consciência."* - Robert C. Martin
+
+</div>
 
