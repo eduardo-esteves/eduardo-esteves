@@ -26,7 +26,7 @@ Desenvolvedor **Full Stack** especializado em **PHP**, **Python** e **JavaScript
 
 ### 🌟 Destaque
 
-> 💡 Desenvolvi meu **[site pessoal](https://edusites.com.br)** utilizando **Vue.js** no frontend e **API REST** no backend, aplicando arquitetura moderna e boas práticas de desenvolvimento.
+> 💡 Desenvolvi meu **[site pessoal](https://edusites.com.br)** utilizando **Vue.js** no frontend e **API REST** no backend, aplicando arquitetura moderna e boas práticas de desenvolvimento, o resultado foi um sistema seguro de alta performance.
 
 ---
 
@@ -86,8 +86,6 @@ Desenvolvedor **Full Stack** especializado em **PHP**, **Python** e **JavaScript
 ---
 
 ### 📊 Atividade no GitHub
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=eduardo-esteves&theme=tokyonight&hide_border=true)
 
 <details>
 <summary>📈 Estatísticas Detalhadas</summary>
