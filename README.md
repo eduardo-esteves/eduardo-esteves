@@ -21,9 +21,11 @@
 
 ### Sobre mim
 
-💬 Sou um desenvolvedor full stack apaixonado pela profissão, tenho 7 anos de esperiência como desenvolvedor, trabalhando com sistemas legados, PHP, Laravel, Javascript, Banco de dados relacionais, APIS, Webservices, Docker, React e NextJS em empresas de grande porte onde ganhei bastante esperiência e contribui em squads ágil.
+💬 Sou um desenvolvedor Full Stack Sênior com 9 anos de experiência em desenvolvimento de software, atuando como referência técnica em squads multidisciplinares. Especializado em PHP, Python e JavaScript, trabalho com desenvolvimento, manutenção e modernização de aplicações complexas, incluindo sistemas monolíticos, APIs REST e arquiteturas de microsserviços em empresas de grande porte.
 
-🎯 Atualmente estou seguindo com minha rotina de estudos em Inglês e em paralelo estudando microsserviços, usando os diversos serviços da AWS como infraestrutura para construir meus projetos e colocar em prática o que venho aprendendo, tirando proveito da esperiência que obtive com Hardware e Redes nos tempos que trabalhava como Analista de Suporte e Representante de Infraestrutura o que vem me ajudando muito a assimilar melhor os estudos.
+🚀 Minha expertise inclui **Laravel**, **Django**, **Django REST Framework**, **Vue.js** e **Quasar Framework**. Desenvolvi meu site pessoal utilizando Vue.js no frontend e API REST no backend, aplicando as melhores práticas de desenvolvimento moderno. Possuo sólida experiência com Docker, CI/CD, AWS (EC2, S3, CloudFront, RDS) e metodologias ágeis (Scrum/Kanban).
+
+🎯 Atualmente estou aprimorando meu inglês (nível intermediário B1) e expandindo conhecimentos em cloud computing e arquitetura de microsserviços, aproveitando minha experiência prévia em infraestrutura e redes para construir soluções escaláveis e eficientes.
 
 ### GitHub Estatísticas
 
@@ -44,6 +46,15 @@
 
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/Python" target="_blank"> 
   <img src="https://cdn.jsdelivr.net/npm/@programming-languages-logos/python@0.0.0/python_48x48.png" alt="Python" width="40" height="40"/>
+</a>
+<a href="https://www.djangoproject.com/" target="_blank"> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" width="40" height="40"/>
+</a>
+<a href="https://www.django-rest-framework.org/" target="_blank"> 
+  <img src="https://www.django-rest-framework.org/img/logo.png" alt="Django REST Framework" width="40" height="40"/>
+</a>
+<a href="https://fastapi.tiangolo.com/" target="_blank"> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="40" height="40"/>
 </a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/Node.js" target="_blank"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
@@ -68,10 +79,12 @@
   <a href="https://vuejs.org" target="_blank"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="vuejs" width="40" height="40"/>
 </a>
-<a href="https://reactjs.org/" target="_blank"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+<a href="https://quasar.dev/" target="_blank"> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/quasar/quasar-original.svg" alt="Quasar Framework" width="40" height="40"/>
 </a>
-<a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/></a>		
+<a href="https://nuxt.com/" target="_blank"> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" alt="Nuxt.js" width="40" height="40"/>
+</a>		
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a> 
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
 <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 	
