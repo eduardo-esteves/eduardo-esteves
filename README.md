@@ -17,7 +17,7 @@
 
 Desenvolvedor **Full Stack** especializado em **PHP**, **Python** e **JavaScript**, com sólida experiência em:
 
-- 🎯 **Referência técnica** em squads multidisciplinares de empresas de grande porte
+- 🎯 **Desenvolvedor Sênior** Atuei como desenvolvedor sênior em squads multidisciplinares de empresas de grande porte
 - 🏗️ Arquitetura de **sistemas monolíticos**, **APIs REST** e **microsserviços**
 - ⚡ **Tomada de decisões técnicas**, definição de boas práticas e suporte a desenvolvedores
 - ☁️ **Cloud Computing** com AWS (EC2, S3, CloudFront, RDS, API Gateway)
